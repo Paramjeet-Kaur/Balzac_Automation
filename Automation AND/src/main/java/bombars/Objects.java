@@ -1,5 +1,7 @@
 package bombars;
 
-public class Objects {
+import java.util.Random;
+
+public class Objects extends Base {
 
 }
